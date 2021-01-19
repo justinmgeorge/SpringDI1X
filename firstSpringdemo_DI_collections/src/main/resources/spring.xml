@@ -9,6 +9,8 @@
 				<value>Maruti</value>
 				<value>Toyota</value>
 				<value>Mercedes</value>
+				<value>KIA</value>
+				<value>Tata</value>
 			</list>
 		</property>
 
@@ -25,6 +27,8 @@
 				<entry key="Maruti" value='Swift' />
 				<entry key="Toyota" value="Qualis" />
 				<entry key="Mercedes" value="Benz" />
+				<entry key="KIA" value="Sonet"/>
+				<entry key="Tata" value="Indigo"/>
 			</map>
 		</property>
 		
