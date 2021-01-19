@@ -11,6 +11,7 @@
 				<value>Mercedes</value>
 				<value>KIA</value>
 				<value>Tata</value>
+				<value>Audi</value>
 			</list>
 		</property>
 
@@ -29,6 +30,7 @@
 				<entry key="Mercedes" value="Benz" />
 				<entry key="KIA" value="Sonet"/>
 				<entry key="Tata" value="Indigo"/>
+				<entry key="Audi" value="Q5"/>
 			</map>
 		</property>
 		
